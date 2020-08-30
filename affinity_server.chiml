@@ -1,0 +1,9 @@
+
+ins: out_1
+out: output
+do:
+    - do:
+
+        - out_1 -> index.js info -i -> emotion
+
+    - ({emotion}) -> {$.util.getInspectedObject} -> output
