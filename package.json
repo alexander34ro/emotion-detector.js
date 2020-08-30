@@ -7,7 +7,6 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "chimera-serve",
     "test": "./node_modules/.bin/standard"
   },
   "bin": {
