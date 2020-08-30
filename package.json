@@ -2,8 +2,12 @@
   "name": "emotion-detector",
   "version": "0.3.0",
   "description": "Emotion recognition in Node.js",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
+    "start": "chimera-serve",
     "test": "./node_modules/.bin/standard"
   },
   "bin": {
