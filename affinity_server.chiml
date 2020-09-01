@@ -4,6 +4,6 @@ out: output
 do:
     - do:
 
-        - out_1 -> index.js info -i -> emotion
+        - out_1 -> node index.js info -i -> emotion
 
     - ({emotion}) -> {$.util.getInspectedObject} -> output

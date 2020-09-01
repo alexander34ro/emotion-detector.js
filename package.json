@@ -32,9 +32,11 @@
   },
   "dependencies": {
     "@tensorflow/tfjs-node": "^0.1.17",
+    "chimera-framework": "0.0.94",
     "color-string": "^1.5.2",
     "commander": "^2.16.0",
     "lodash": "^4.17.10",
+    "node": "11.15.0",
     "opencv4nodejs": "^4.7.1"
   }
 }
