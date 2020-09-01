@@ -1,0 +1,11 @@
+{
+  "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\tools\\run.js": {
+    "../lib/core.js": "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\lib\\core.js"
+  },
+  "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\lib\\core.js": {
+    "./require-once.js": "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\lib\\require-once.js"
+  },
+  "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\lib\\require-once.js": {
+    "cache-require-paths": "C:\\Users\\mortu\\AppData\\Roaming\\npm\\node_modules\\chimera-framework\\node_modules\\cache-require-paths\\index.js"
+  }
+}
