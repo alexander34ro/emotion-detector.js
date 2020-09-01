@@ -36,8 +36,8 @@
     "chimera-framework": "0.0.94",
     "color-string": "^1.5.2",
     "commander": "^2.16.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.20",
     "node": "11.15.0",
-    "opencv4nodejs": "^4.7.1"
+    "opencv4nodejs": "^5.4.0"
   }
 }
